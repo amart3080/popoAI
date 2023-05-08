@@ -1,3 +1,18 @@
+5/4/2023
+This AI will be NLP to make the process of using speech recognition and data capture easier. 
+NLP is a conversational agent that uses natural language processing to understand and respond to human language inputs. 
+It has many capabilities and is accessible to the public.
+Article Tutorial Help #1 --> https://www.analyticsvidhya.com/blog/2021/10/complete-guide-to-build-your-ai-chatbot-with-nlp-in-python/
+
+
+
+
+
+# ==================================================
+# =======================START======================
+# ==================================================
+
+
 # To be able to convert text to Speech
 ! pip install SpeechRecognition  #(3.8.1)
 #To convey the Speech to text and also speak it out
@@ -6,9 +21,6 @@
 !pip install transformers  #(4.11.3)
 !pip install tensorflow #(2.6.0, or pytorch)
 
-# ==================================================
-# =======================START======================
-# ==================================================
 
 # *Please not that this is the template for the AI and has been adjusted significantly.
 
